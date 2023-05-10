@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation01">Ter sucesso é falhar repetidamente, mas sem perder o entusiasmo! Winston Churchill</string>
+    <string name="affirmation02">Se você não pode explicar isso simplesmente, você não entende bem o suficiente. Albert Einstein</string>
+    <string name="affirmation03">Quantos eles cantam o meu nome é mais um grito de vingança do que um viva. Jogos Vorazes: A Esperança</string>
+    <string name="affirmation04">Oportunidades não acontecem, você as cria. Chris Grosser</string>
+    <string name="affirmation05">Se você está atravessando o inferno, continue. Winston Churchill</string>
+    <string name="affirmation06">Não deixe que as pessoas te façam desistir daquilo que você mais quer na vida. Acredite. Lute. Conquiste. E acima de tudo, seja feliz! Anônimo</string>
+    <string name="affirmation07">O êxito parece doce a quem não o alcança. Emily Dickinson</string>
+    <string name="affirmation08">Tudo deveria se tornar o mais simples possível, mas não simplificado. Albert Einstein</string>
+</resources>
