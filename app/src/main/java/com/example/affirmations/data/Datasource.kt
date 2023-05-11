@@ -13,7 +13,9 @@ class Datasource {
             Affirmation(R.string.affirmation05),
             Affirmation(R.string.affirmation06),
             Affirmation(R.string.affirmation07),
-            Affirmation(R.string.affirmation08)
+            Affirmation(R.string.affirmation08),
+            Affirmation(R.string.affirmation09),
+            Affirmation(R.string.affirmation10)
         )
     }
 }
